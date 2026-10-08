@@ -1,0 +1,12 @@
+pysteps==1.21.5
+cartopy
+netCDF4
+rasterio
+geopandas
+scikit-image
+matplotlib
+numpy
+scipy
+pandas
+pyproj
+opencv-python-headless
